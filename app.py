@@ -8,3 +8,5 @@ with col2:
     st.write("""
     campusx is an online learning plataform for data science """)
 
+st.sidebar.selectbox( "select one",['teacher','student'])
+st.sidebar.button('select')
