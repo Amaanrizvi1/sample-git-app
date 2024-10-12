@@ -8,18 +8,3 @@ with col2:
     st.write("""
     campusx is an online learning plataform for data science """)
 
-st.header('courses')
-st.subheader("DSMP")
-st.subheader("DAMP")
-st.subheader('EDA')
-st.subheader("DSA")
-
-
-st.sidebar.title('menu')
-st.sidebar.markdown("""
-- Home 
-- About 
-- Contact 
-- Career
-- Login 
-""")
